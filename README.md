@@ -12,6 +12,8 @@
 
 - As for data blending, it is used when you blend data from multiple data sources on a single worksheet. For each data source that is used on the sheet, a query is sent to the database and the results are processed. Then all the results are left joined on the common dimensions.(which means that you must define common dimensions between the primary and secondary data sources )
 
+- Twbx. Doesn't create an extract of the data, but can contain both live connections and/or data extracts
+
 
 - Data Source filter >> context filter
 
