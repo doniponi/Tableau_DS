@@ -1,33 +1,25 @@
 # Tableau_DS
-	- Parameter Action: when selected, assign field to the target parameter
+- Parameter Action: when selected, assign field to the target parameter
+
+- AVG function ignores null values
+- An aggregated calculation can be multiplied by a non-aggregated constant.
+
+- Dimensions come out to view by themselves , measures are aggregate; discrete are blue, continuous are green
+
+- As for data blending, it is used when you blend data from multiple data sources on a single worksheet. For each data source that is used on the sheet, a query is sent to the database and the results are processed. Then all the results are left joined on the common dimensions.(which means that you must define common dimensions between the primary and secondary data sources )
 
 
-	- AVG function ignores null values
-	- An aggregated calculation can be multiplied by a non-aggregated constant.
+- Data Source filter >> context filter
 
-	- Dimensions come out to view by themselves , measures are aggregate; discrete are blue, continuous are green
-
-	- As for data blending, it is used when you blend data from multiple data sources on a single worksheet. For each data source that is used on the sheet, a query is sent to the database and the results are processed. Then all the results are left joined on the common dimensions.(which means that you must define common dimensions between the primary and secondary data sources )
-
-
-	- Data Source filter >> context filter
-
-	- Tree map: color, size, detail
+- Tree map: color, size, detail
 
 - MEASURE and DIMENSION are NOT about colors.
-
 - DISCRETE and CONTINUOUS relate to COLOR
-
 - Text and Boolean values are ALWAYS DISCRETE and cannot be converted to continuous
-
 - DATE fields can be CONTINUOUS or DISCRETE
-
 - You CANNOT make a type conversion between a MEASURE and a DIMENSION if you are connected to a CUBE data source
-
 - You CAN change the geographic roles of a DIMENSION
-
 - Shape and Sort are default properties only for DIMENSIONS
-
 - SORT can NOT break the dimension hierarchy
 - MEASURE does NOT change the granularity of the view
 - Only DIMENSION changes the granularity of the view
