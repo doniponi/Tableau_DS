@@ -1,4 +1,8 @@
 # Tableau_DS
+-  Parameter action
+		a. Create parmeter,
+		b. Add parameter action (worksheet>add action > change parameter)
+    c. Assign action
 - Parameter Action: when selected, assign field to the target parameter
 
 - AVG function ignores null values
