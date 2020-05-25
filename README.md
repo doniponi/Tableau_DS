@@ -116,3 +116,4 @@ https://zhuanlan.zhihu.com/p/61105327?utm_source=wechat_session&utm_medium=socia
 - SUBSCRIBE users by clicking subscribe on the view then add under subscribe others
 - Manage PERMISSION on the workbooks permission page then click PERMISSION rules
 - Join type for BLENDED data is LEFT JOIN
+- Extract filters >> Data Source filters >> Context filters >> LOD Fixed >> Dimension filters >> LOD Include/Exclude >> Measure filters >> Table calc filters
