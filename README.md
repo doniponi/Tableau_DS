@@ -1,6 +1,5 @@
 # Tableau_DS
 
-https://zhuanlan.zhihu.com/p/61105327?utm_source=wechat_session&utm_medium=social&utm_oi=978141281302552576
 -  Parameter action
 		a. Create parmeter,
 		b. Add parameter action (worksheet>add action > change parameter)
